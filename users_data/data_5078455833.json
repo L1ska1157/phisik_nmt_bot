@@ -1,0 +1,2264 @@
+{
+    "themes": [
+        "1",
+        "2"
+    ],
+    "questions": [
+        {
+            "theme": "1. Механіка  => Кінематика: основні поняття кінематики ",
+            "href": "https://zno.osvita.ua/physics/tag-kinematyka__osnovni_ponjattja_kinematyky/",
+            "questions": [
+                {
+                    "num": "22",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19706/pr-fizika-2020-29.png",
+                    "is_comp": false,
+                    "ans": "7"
+                }
+            ]
+        },
+        {
+            "theme": "1. Механіка  => Кінематика: прямолінійний рух ",
+            "href": "https://zno.osvita.ua/physics/tag-kinematyka__prjamolinijnyj_rukh/",
+            "questions": [
+                {
+                    "num": "2",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5372/1_fizika_2013_25.png",
+                    "is_comp": true,
+                    "ans": "5"
+                },
+                {
+                    "num": "3",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5412/fizika_2012_31.png",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "8",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5482/fizika_2010_28.png",
+                    "is_comp": false,
+                    "ans": "6"
+                },
+                {
+                    "num": "11",
+                    "q": "З прогулянкового катера, що рухався за течією річки, упав у воду надувний матрац. Через 10 хвилин після падіння матраца була помічена його відсутність. Одразу після цього катер змінив курс на зворотний і наздогнав матрац на відстані 1 км нижче за течією від місця, де матрац упав у воду. Визначте (у кілометрах за годину) швидкість течії річки, вважаючи, що модуль швидкості руху катера в обох напрямках однаковий.",
+                    "is_comp": false,
+                    "ans": "3"
+                },
+                {
+                    "num": "16",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7956/fizika_27.jpg",
+                    "is_comp": true,
+                    "ans": "20"
+                },
+                {
+                    "num": "24",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9130/fizika_2008_osn_sessia_29.png",
+                    "is_comp": false,
+                    "ans": "18"
+                },
+                {
+                    "num": "28",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10891/ds-fizika-2016-27.png",
+                    "is_comp": true,
+                    "ans": "400"
+                },
+                {
+                    "num": "35",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/145/14588/os-fizika-2007-28.png",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "41",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/167/16723/pr-fizika-2019-34.png",
+                    "is_comp": false,
+                    "ans": "12"
+                },
+                {
+                    "num": "44",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/174/17421/os-fizika-2019-34.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "46",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/181/18153/ds-fizika-2019-34.png",
+                    "is_comp": false,
+                    "ans": "30"
+                },
+                {
+                    "num": "52",
+                    "q": "Парашутист опускається рівномірно зі швидкістю \\(5\\ \\text{м/с.}\\) На відстані \\(100\\ \\text{м}\\) від поверхні землі з його кишені випала монета. На скільки секунд пізніше приземлиться парашутист, ніж упаде монета? Вплив опору повітря на монету не враховуйте. Уважайте, що прискорення вільного падіння дорівнює \\(10\\ \\text{м/с}^2.\\)",
+                    "is_comp": false,
+                    "ans": "16"
+                }
+            ]
+        },
+        {
+            "theme": "1. Механіка  => Кінематика: рух під дією сили тяжіння ",
+            "href": "https://zno.osvita.ua/physics/tag-kinematyka__rukh_pid_diyeju_syly_tjazhinnja/",
+            "questions": [
+                {
+                    "num": "6",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5550/25-pr-2013f_1.png",
+                    "is_comp": false,
+                    "ans": "25"
+                },
+                {
+                    "num": "7",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5558/33-pr-2013f.png",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "9",
+                    "q": "Початкова швидкість снаряду, випущеного з гармати вертикально вгору, дорівнює 40 м/с. У точці максимального підйому снаряд розірвався на два осколки, маси яких відносяться як 1:5. Осколок меншої маси полетів горизонтально зі швидкістю 20 м/с. На якій відстані (у метрах) від точки пострілу впаде осколок більшої маси? Вважайте поверхню Землі плоскою та горизонтальною; g=10 м/с2. Опором повітря знехтуйте.",
+                    "is_comp": false,
+                    "ans": "16"
+                },
+                {
+                    "num": "10",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/83/8394/fizika_26.jpg",
+                    "is_comp": false,
+                    "ans": "1"
+                },
+                {
+                    "num": "12",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9636/fizika_probnoe_2016_27.png",
+                    "is_comp": false,
+                    "ans": "27"
+                },
+                {
+                    "num": "21",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/211/21197/ds-fizika-2020-29.png",
+                    "is_comp": false,
+                    "ans": "5"
+                }
+            ]
+        },
+        {
+            "theme": "1. Механіка  => Кінематика: рух по колу ",
+            "href": "https://zno.osvita.ua/physics/tag-kinematyka__rukh_po_kolu/",
+            "questions": [
+                {
+                    "num": "3",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5415/fizika_2012_34.png",
+                    "is_comp": false,
+                    "ans": "0.75"
+                },
+                {
+                    "num": "5",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5447/1_fizika_2011_30.png",
+                    "is_comp": false,
+                    "ans": "0.25"
+                },
+                {
+                    "num": "12",
+                    "q": "Два однакові диски обертаються навколо своіїх осей. Точки на краю  першого диска мають у 4 рази більше доцентрове прискорення, ніж точки на  краю другого диска. Знайдіть відношення лінійної швидкості руху  першого диска до лінійної швидкості руху другого диска.",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "13",
+                    "q": "В однорідне магнітне поле з індукцією 20 мТл перпендикулярно до ліній індукції влітає електрон з кінетичною енергією 32 кеВ. Визначте радіус траєкторій руху електрона (в метрах). Елементарний електричний заряд 1,6⋅10–19 Кл, масу електрона вважайте такою, що дорівнює 9⋅10–31 кг. 1 еВ=1,6⋅10–19 Дж.",
+                    "is_comp": false,
+                    "ans": "0.03"
+                },
+                {
+                    "num": "22",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/151/15123/os-fizika-2018-37.png",
+                    "is_comp": false,
+                    "ans": "75"
+                },
+                {
+                    "num": "27",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/181/18157/ds-fizika-2019-38.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "31",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/233/23305/35.png",
+                    "is_comp": false,
+                    "ans": "2.25"
+                },
+                {
+                    "num": "33",
+                    "q": "Сила тяжіння, що діє на штучний супутник Землі, дорівнює 4 кН. Визначте кінетичну енергію супутника, якщо радіус його колової орбіти 10000 км.",
+                    "is_comp": true,
+                    "ans": "20"
+                }
+            ]
+        },
+        {
+            "theme": "1. Механіка  => Динаміка: рівнодійна та закони Ньютона ",
+            "href": "https://zno.osvita.ua/physics/tag-dynamika__rivnodijna_ta_zakony_njutona/",
+            "questions": [
+                {
+                    "num": "1",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5373/fizika_2013_26.png",
+                    "is_comp": false,
+                    "ans": "1.1"
+                },
+                {
+                    "num": "3",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5413/fizika_2012_32.png",
+                    "is_comp": false,
+                    "ans": "45"
+                },
+                {
+                    "num": "7",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5483/fizika_2010_29.png",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "10",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5518/1_fizika_2014_prob_27.png",
+                    "is_comp": false,
+                    "ans": "100"
+                },
+                {
+                    "num": "14",
+                    "q": "В однорідне магнітне поле з індукцією 20 мТл перпендикулярно до ліній індукції влітає електрон з кінетичною енергією 32 кеВ. Визначте радіус траєкторій руху електрона (в метрах). Елементарний електричний заряд 1,6⋅10–19 Кл, масу електрона вважайте такою, що дорівнює 9⋅10–31 кг. 1 еВ=1,6⋅10–19 Дж.",
+                    "is_comp": false,
+                    "ans": "0.03"
+                },
+                {
+                    "num": "16",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7955/fizika_26.jpg",
+                    "is_comp": true,
+                    "ans": "2"
+                },
+                {
+                    "num": "18",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/83/8395/fizika_27.jpg",
+                    "is_comp": true,
+                    "ans": "0.5"
+                },
+                {
+                    "num": "26",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9165/1_fizika_2009_osn_sessia_29.png",
+                    "is_comp": false,
+                    "ans": "60"
+                },
+                {
+                    "num": "29",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10664/pr-fizika-2017-27.png",
+                    "is_comp": true,
+                    "ans": "2"
+                },
+                {
+                    "num": "30",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10893/ds-fizika-2016-29.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "34",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11310/os-fizika-2016-27.png",
+                    "is_comp": false,
+                    "ans": "6"
+                },
+                {
+                    "num": "35",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12343/140612_os-fizika-2017-27.png",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "36",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12348/140658_os-fizika-2017-32.png",
+                    "is_comp": false,
+                    "ans": "28"
+                },
+                {
+                    "num": "37",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12729/ds-fizika-2017-27.png",
+                    "is_comp": false,
+                    "ans": "15"
+                },
+                {
+                    "num": "44",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/151/15119/os-fizika-2018-33.png",
+                    "is_comp": false,
+                    "ans": "0.04"
+                },
+                {
+                    "num": "54",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19708/pr-fizika-2020-31.png",
+                    "is_comp": true,
+                    "ans": "40"
+                },
+                {
+                    "num": "57",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20208/os-fizika-2020-30.png",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "59",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/212/21202/ds-fizika-2020-34.png",
+                    "is_comp": false,
+                    "ans": "0.25"
+                },
+                {
+                    "num": "63",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/232/23299/29_1.png",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "64",
+                    "q": "Дерев’яна дошка завтовшки 40 мм плаває у воді. Нижня поверхня дошки перебуває на глибині 30 мм. Уважайте, що густина води дорівнює 1000 кг/м3. Визначте, якою є густина деревини.",
+                    "is_comp": false,
+                    "ans": "750"
+                },
+                {
+                    "num": "65",
+                    "q": "Кільце радіусом 5 см, виготовлене з тонкого дроту, потрібно відірвати від поверхні води. Маса кільця 1,2 г, поверхневий натяг води 70 мН/м. Визначте силу, яку потрібно докласти до кільця. Уважайте, що під час відриву від води кільце лишається горизонтальним, прискорення вільного падіння дорівнює 10 м/с2, \\(\\style{font-style:normal;font-weight:bold;font-size:1.1em}{\\pi}=\\frac{22}{7}\\).",
+                    "is_comp": false,
+                    "ans": "56"
+                },
+                {
+                    "num": "67",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/238/23894/31_1.png",
+                    "is_comp": false,
+                    "ans": "6"
+                },
+                {
+                    "num": "71",
+                    "q": "Щоби підняти й відірвати від поверхні рідини тонку горизонтальну дротинку довжиною 8 см i масою 0,48 г, до неї необхідно прикласти силу 12 мН, напрямлену вертикально вгору. Визначте поверхневий натяг рідини. Уважайте, що прискорення вільного падіння дорівнює 10 м/с2.",
+                    "is_comp": false,
+                    "ans": "45"
+                },
+                {
+                    "num": "72",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/263/26351/fizika-demo-2023-16.png",
+                    "is_comp": false,
+                    "ans": "0.8"
+                },
+                {
+                    "num": "73",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/273/27356/mt-os-fizika-1-15.png",
+                    "is_comp": false,
+                    "ans": "2.5"
+                },
+                {
+                    "num": "74",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/273/27376/mt-os-fizika-2-15.png",
+                    "is_comp": false,
+                    "ans": "0.25"
+                }
+            ]
+        },
+        {
+            "theme": "1. Механіка  => Динаміка: основні сили ",
+            "href": "https://zno.osvita.ua/physics/tag-dynamika__osnovni_syly/",
+            "questions": [
+                {
+                    "num": "9",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5591/1_31.jpg",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "21",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9131/fizika_2008_osn_sessia_30.png",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "29",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10664/pr-fizika-2017-27.png",
+                    "is_comp": true,
+                    "ans": "2"
+                },
+                {
+                    "num": "35",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12348/140658_os-fizika-2017-32.png",
+                    "is_comp": false,
+                    "ans": "28"
+                },
+                {
+                    "num": "46",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19708/pr-fizika-2020-31.png",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "49",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20214/os-fizika-2020-36.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "55",
+                    "q": "Космічний апарат спустився на поверхню планети \\(Z\\), радіус якої у 2 рази більший за радіус Землі, а середня густина планети \\(Z\\) у 4 рази менша за середню густину Землі. Яка сила тяжіння діє на апарат на поверхні планети \\(Z\\), якщо на поверхні Землі на нього діяла би сила тяжіння 1600 Н?",
+                    "is_comp": false,
+                    "ans": "800"
+                },
+                {
+                    "num": "59",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/278/27882/pr-multi-fisika-2024-15-1.png",
+                    "is_comp": false,
+                    "ans": "10"
+                }
+            ]
+        },
+        {
+            "theme": "1. Механіка  => Закони збереження в механіці ",
+            "href": "https://zno.osvita.ua/physics/tag-zakoni_zberezhennya_v_mehanici/",
+            "questions": [
+                {
+                    "num": "3",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5415/fizika_2012_34.png",
+                    "is_comp": false,
+                    "ans": "0.75"
+                },
+                {
+                    "num": "5",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5448/fizika_2011_31.png",
+                    "is_comp": false,
+                    "ans": "0.4"
+                },
+                {
+                    "num": "12",
+                    "q": "Початкова швидкість снаряду, випущеного з гармати вертикально вгору, дорівнює 40 м/с. У точці максимального підйому снаряд розірвався на два осколки, маси яких відносяться як 1:5. Осколок меншої маси полетів горизонтально зі швидкістю 20 м/с. На якій відстані (у метрах) від точки пострілу впаде осколок більшої маси? Вважайте поверхню Землі плоскою та горизонтальною; g=10 м/с2. Опором повітря знехтуйте.",
+                    "is_comp": false,
+                    "ans": "16"
+                },
+                {
+                    "num": "15",
+                    "q": "На нитці довжиною 50 см висить кулька. Яку мінімальну швидкість слід надати кульці в горизонтальному напрямку, щоб вона зробила повний оберт у вертикальній площині? Вважайте, що g=10 м/с2. Опором повітря і розміром кульки знехтуйте. Відповідь запишіть у метрах за секунду.",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "16",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/56/5631/1_34.jpg",
+                    "is_comp": false,
+                    "ans": "28"
+                },
+                {
+                    "num": "19",
+                    "q": "Візок масою 2 кг рухається рівномірно прямолінійно. На візок з висоти 0,5 м падає шматок пластиліну масою 1 кг і прилипає до нього. Визначте (у метрах за секунду) швидкість візка до взаємодії з пластиліном, коли відомо, що в процесі взаємодії зміна внутрішньої енергії становила 8 Дж. Вважайте, що g=10 м/с2.",
+                    "is_comp": false,
+                    "ans": "3"
+                },
+                {
+                    "num": "22",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7955/fizika_26.jpg",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "35",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9165/1_fizika_2009_osn_sessia_29.png",
+                    "is_comp": false,
+                    "ans": "60"
+                },
+                {
+                    "num": "38",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9637/fizika_probnoe_2016_28.png",
+                    "is_comp": false,
+                    "ans": "22"
+                },
+                {
+                    "num": "46",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12348/140658_os-fizika-2017-32.png",
+                    "is_comp": false,
+                    "ans": "28"
+                },
+                {
+                    "num": "55",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14300/pr-fizika-2018-33.png",
+                    "is_comp": false,
+                    "ans": "180"
+                },
+                {
+                    "num": "56",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14302/pr-fizika-2018-35.png",
+                    "is_comp": true,
+                    "ans": "0.02"
+                },
+                {
+                    "num": "58",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/145/14589/os-fizika-2007-29.png",
+                    "is_comp": false,
+                    "ans": "27"
+                },
+                {
+                    "num": "64",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/151/15120/os-fizika-2018-34.png",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "67",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/157/15700/ds-fizika-2018-33.png",
+                    "is_comp": true,
+                    "ans": "8"
+                },
+                {
+                    "num": "68",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/157/15701/ds-fizika-2018-34.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "73",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/167/16722/pr-fizika-2019-33.png",
+                    "is_comp": false,
+                    "ans": "600"
+                },
+                {
+                    "num": "79",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/181/18152/ds-fizika-2019-33.png",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "82",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19711/pr-fizika-2020-34.png",
+                    "is_comp": true,
+                    "ans": "0.25"
+                },
+                {
+                    "num": "84",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20207/os-fizika-2020-29.png",
+                    "is_comp": false,
+                    "ans": "90"
+                },
+                {
+                    "num": "93",
+                    "q": "Із якою швидкістю гойдалка проходить нижню точку, якщо вага дитини масою 40 кг у цій точці становить 800 Н? Довжина підвісу гойдалки дорівнює 2,5 м. Уважайте, що прискорення вільного падіння становить 10 м/с2.",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "94",
+                    "q": "Сила тяжіння, що діє на штучний супутник Землі, дорівнює 4 кН. Визначте кінетичну енергію супутника, якщо радіус його колової орбіти 10000 км.",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "95",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/238/23894/31_1.png",
+                    "is_comp": false,
+                    "ans": "6"
+                },
+                {
+                    "num": "98",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/247/24745/30-f.png",
+                    "is_comp": false,
+                    "ans": "1.1"
+                },
+                {
+                    "num": "99",
+                    "q": "Температура мідної кульки знизилася від 20 °С до 18 °С. Уявіть, що 1 % утраченої кулькою внутрішньої енергії вдалося перетворити на механічну енергію кульки. На яку висоту можна було б тоді підняти цю кульку? Уважайте, що питома теплоємність міді - 380 Дж/(кг · К), прискорення вільного падіння - 10 м/с2.",
+                    "is_comp": false,
+                    "ans": "0.76"
+                },
+                {
+                    "num": "104",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/278/27883/pr-multi-fisika-2024-16_1.png",
+                    "is_comp": false,
+                    "ans": "5"
+                }
+            ]
+        },
+        {
+            "theme": "1. Механіка  => Елементи механіки рідин та газів ",
+            "href": "https://zno.osvita.ua/physics/tag-elementi_mehaniki_ridin_ta_gaziv/",
+            "questions": [
+                {
+                    "num": "1",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5373/fizika_2013_26.png",
+                    "is_comp": false,
+                    "ans": "1.1"
+                },
+                {
+                    "num": "3",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5518/1_fizika_2014_prob_27.png",
+                    "is_comp": false,
+                    "ans": "100"
+                },
+                {
+                    "num": "13",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9093/1_fizika_2015_prob_26.png",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "15",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9133/fizika_2008_osn_sessia_32.png",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "24",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11313/133252_os-fizika-2016-30.png",
+                    "is_comp": false,
+                    "ans": "1600"
+                },
+                {
+                    "num": "27",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12343/140612_os-fizika-2017-27.png",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "28",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12729/ds-fizika-2017-27.png",
+                    "is_comp": false,
+                    "ans": "15"
+                },
+                {
+                    "num": "29",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14300/pr-fizika-2018-33.png",
+                    "is_comp": false,
+                    "ans": "180"
+                },
+                {
+                    "num": "30",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14301/pr-fizika-2018-34.png",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "31",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/145/14589/os-fizika-2007-29.png",
+                    "is_comp": false,
+                    "ans": "27"
+                },
+                {
+                    "num": "35",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/157/15701/ds-fizika-2018-34.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "37",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/174/17420/os-fizika-2019-33.png",
+                    "is_comp": true,
+                    "ans": "3.9"
+                },
+                {
+                    "num": "39",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19707/pr-fizika-2020-30.png",
+                    "is_comp": false,
+                    "ans": "1.6"
+                },
+                {
+                    "num": "44",
+                    "q": "Дерев’яна дошка завтовшки 40 мм плаває у воді. Нижня поверхня дошки перебуває на глибині 30 мм. Уважайте, що густина води дорівнює 1000 кг/м3. Визначте, якою є густина деревини.",
+                    "is_comp": false,
+                    "ans": "750"
+                },
+                {
+                    "num": "45",
+                    "q": "Кільце радіусом 5 см, виготовлене з тонкого дроту, потрібно відірвати від поверхні води. Маса кільця 1,2 г, поверхневий натяг води 70 мН/м. Визначте силу, яку потрібно докласти до кільця. Уважайте, що під час відриву від води кільце лишається горизонтальним, прискорення вільного падіння дорівнює 10 м/с2, \\(\\style{font-style:normal;font-weight:bold;font-size:1.1em}{\\pi}=\\frac{22}{7}\\).",
+                    "is_comp": false,
+                    "ans": "56"
+                },
+                {
+                    "num": "47",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/238/23894/31_1.png",
+                    "is_comp": false,
+                    "ans": "6"
+                },
+                {
+                    "num": "49",
+                    "q": "Визначте максимальну масу вантажу, який можна перевезти через річку на плоту, складеному з \\(10\\) соснових колод об’ємом \\(0,5\\ \\text{м}^3\\) кожна. Уважайте, що густина соснової деревини дорівнює \\(600\\ \\text{кг/м}^3,\\) води – \\(1000\\ \\text{кг/м}^3,\\) а прискорення вільного падіння становить \\(10\\ \\text{м/с}^2.\\)",
+                    "is_comp": false,
+                    "ans": "2000"
+                },
+                {
+                    "num": "50",
+                    "q": "Визначте силу Архімеда, яка діє на тіло об’ємом \\(2\\ \\text{м}^3,\\) повністю занурене в рідину густиною \\(10^3\\ \\text{кг/м}^3.\\) Уважайте, що прискорення вільного падіння дорівнює \\(10\\ \\text{м/с}^2.\\)",
+                    "is_comp": true,
+                    "ans": "20"
+                }
+            ]
+        },
+        {
+            "theme": "2. Молекулярна фізика і термодинаміка  => Основи молекулярно-кінетичної теорії ",
+            "href": "https://zno.osvita.ua/physics/tag-osnovi_molekulyarno_kinetichnoyi_teoriyi/",
+            "questions": [
+                {
+                    "num": "26",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9093/1_fizika_2015_prob_26.png",
+                    "is_comp": true,
+                    "ans": "10"
+                },
+                {
+                    "num": "32",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9638/fizika_probnoe_2016_29.png",
+                    "is_comp": false,
+                    "ans": "400"
+                },
+                {
+                    "num": "34",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10665/pr-fizika-2017-28.png",
+                    "is_comp": false,
+                    "ans": "0.15"
+                },
+                {
+                    "num": "50",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/145/14590/os-fizika-2007-30.png",
+                    "is_comp": false,
+                    "ans": "0.1"
+                },
+                {
+                    "num": "56",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/157/15702/ds-fizika-2018-35.png",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "63",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/181/18154/ds-fizika-2019-35.png",
+                    "is_comp": false,
+                    "ans": "3"
+                },
+                {
+                    "num": "70",
+                    "q": "Футбольний м’яч сферичної форми має сталий об’єм 5,5 л. Початковий тиск у м’ячі дорівнює атмосферному й становить 100 кПа. Його накачують за допомогою насоса, робочий об’єм якого дорівнює 0,1 л. Визначте тиск повітря в м’ячі після 11 циклів роботи насоса. Стискання повітря відбувається за сталої температури.",
+                    "is_comp": false,
+                    "ans": "120"
+                },
+                {
+                    "num": "74",
+                    "q": "Унаслідок ізотермічного стискання ідеального газу від об'єму 8 л до об'єму 6 л його тиск збільшився на 4 кПа. Визначте початковий тиск газу.",
+                    "is_comp": false,
+                    "ans": "12"
+                }
+            ]
+        },
+        {
+            "theme": "2. Молекулярна фізика і термодинаміка  => Основи термодинаміки ",
+            "href": "https://zno.osvita.ua/physics/tag-osnovi_termodinamiki/",
+            "questions": [
+                {
+                    "num": "2",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5374/1_fizika_2013_27.png",
+                    "is_comp": false,
+                    "ans": "1"
+                },
+                {
+                    "num": "6",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5449/fizika_2011_32.png",
+                    "is_comp": false,
+                    "ans": "1"
+                },
+                {
+                    "num": "8",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5485/fizika_2010_31.png",
+                    "is_comp": false,
+                    "ans": "25"
+                },
+                {
+                    "num": "11",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5519/1_fizika_2014_prob_28.png",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "15",
+                    "q": "Під час ізобарного нагрівання гелій виконав роботу 30 Дж. Визначте зміну внутрішньої енергії гелію. Відповідь запишіть у джоулях.",
+                    "is_comp": false,
+                    "ans": "45"
+                },
+                {
+                    "num": "16",
+                    "q": "Ідеальний одноатомний газ знаходиться в посудині з твердими стінками об'ємом 0,5 м3. Унаслідок нагрівання його тиск збільшився на 6⋅103 Па. На скільки збільшилася внутрішня енергія газу? Відповідь запишіть у кілоджоулях.",
+                    "is_comp": false,
+                    "ans": "4.5"
+                },
+                {
+                    "num": "17",
+                    "q": "Ідеальна теплова машина має як нагрівник резервуар з водою, що кипить (373 К), а холодильником — ємність з льодом, що тане (273 К). Яка маса цього льоду розтане у результаті виконання машиною корисної роботи 110 кДж, якщо питома теплота плавлення льоду дорівнює 330 кДж/кг? Відповідь запишіть у грамах.",
+                    "is_comp": false,
+                    "ans": "910"
+                },
+                {
+                    "num": "19",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/56/5665/1_32.jpg",
+                    "is_comp": false,
+                    "ans": "200"
+                },
+                {
+                    "num": "21",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7959/fizika_30.jpg",
+                    "is_comp": false,
+                    "ans": "910"
+                },
+                {
+                    "num": "24",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/83/8397/fizika_29.jpg",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "28",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9061/matematika_28.png",
+                    "is_comp": false,
+                    "ans": "1.6"
+                },
+                {
+                    "num": "32",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9132/fizika_2008_osn_sessia_31.png",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "34",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9166/1_fizika_2009_osn_sessia_30.png",
+                    "is_comp": false,
+                    "ans": "200"
+                },
+                {
+                    "num": "40",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10666/pr-fizika-2017-29.png",
+                    "is_comp": false,
+                    "ans": "420"
+                },
+                {
+                    "num": "43",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10893/ds-fizika-2016-29.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "49",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12345/os-fizika-2017-29.png",
+                    "is_comp": false,
+                    "ans": "13"
+                },
+                {
+                    "num": "54",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12730/ds-fizika-2017-28.png",
+                    "is_comp": false,
+                    "ans": "1.6"
+                },
+                {
+                    "num": "55",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12731/ds-fizika-2017-29.png",
+                    "is_comp": false,
+                    "ans": "2.5"
+                },
+                {
+                    "num": "59",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14302/pr-fizika-2018-35.png",
+                    "is_comp": false,
+                    "ans": "0.02"
+                },
+                {
+                    "num": "70",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/174/17422/os-fizika-2019-35.png",
+                    "is_comp": false,
+                    "ans": "230"
+                },
+                {
+                    "num": "74",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/181/18154/ds-fizika-2019-35.png",
+                    "is_comp": true,
+                    "ans": "3"
+                },
+                {
+                    "num": "86",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/211/21198/ds-fizika-2020-30.png",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "87",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/211/21199/ds-fizika-2020-31.png",
+                    "is_comp": false,
+                    "ans": "60"
+                },
+                {
+                    "num": "88",
+                    "q": "За один цикл тепловий двигун виконав корисну роботу 40 МДж. Таку саму кількість теплоти передано під час цього навколишньому середовищу. Визначте коефіцієнт корисної дії цієї теплової машини.",
+                    "is_comp": false,
+                    "ans": "50"
+                },
+                {
+                    "num": "90",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/247/24747/32-f.png",
+                    "is_comp": false,
+                    "ans": "150"
+                },
+                {
+                    "num": "91",
+                    "q": "Температура нагрівника ідеальної теплової машини дорівнює \\(527\\ ^\\circ\\mathrm{C},\\) а температура холодильника становить \\(7\\ ^\\circ\\mathrm{C}.\\) Визначте, яку кількість теплоти має передати нагрівник робочому тілу, щоб машина виконала корисну роботу, яка дорівнює \\(5,2\\ \\text{кДж.}\\)",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "93",
+                    "q": "Свинцева куля масою \\(30\\ \\text{г},\\) що рухається зі швидкістю \\(50\\ \\text{м/с},\\) улучає в дошку й заглиблюється в неї. Визначте кількість теплоти, яку отримала куля, якщо частка її механічної енергії, витраченої на цей процес, становила \\(52\\ \\text{%}.\\)",
+                    "is_comp": false,
+                    "ans": "19.5"
+                },
+                {
+                    "num": "94",
+                    "q": "Для ізобарного нагрівання на \\(20\\ ^\\circ\\mathrm{C}\\) одноатомного ідеального газу необхідна кількість теплоти \\(2490\\ \\text{Дж}.\\) Визначте кількість речовини цього газу. Уважайте, що універсальна газова стала дорівнює \\(8,3\\ \\text{Дж/(моль}\\cdot \\text{К}).\\)",
+                    "is_comp": false,
+                    "ans": "6"
+                }
+            ]
+        },
+        {
+            "theme": "2. Молекулярна фізика і термодинаміка  => Особливості агрегатних станів ",
+            "href": "https://zno.osvita.ua/physics/tag-osoblyvosti_aghreghatnykh_staniv/",
+            "questions": [
+                {
+                    "num": "2",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5414/1_fizika_2012_33.png",
+                    "is_comp": false,
+                    "ans": "84"
+                },
+                {
+                    "num": "16",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14302/pr-fizika-2018-35.png",
+                    "is_comp": false,
+                    "ans": "0.02"
+                },
+                {
+                    "num": "19",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/151/15121/os-fizika-2018-35.png",
+                    "is_comp": false,
+                    "ans": "150"
+                },
+                {
+                    "num": "23",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/167/16724/pr-fizika-2019-35.png",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "30",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19709/pr-fizika-2020-32.png",
+                    "is_comp": false,
+                    "ans": "65"
+                },
+                {
+                    "num": "33",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20210/os-fizika-2020-32.png",
+                    "is_comp": false,
+                    "ans": "600"
+                },
+                {
+                    "num": "41",
+                    "q": "Після того як у герметично закритий балон об’ємом \\(0,5\\ \\text{м}^3\\) поставили відкриту посудину з водою, з неї випарувалася вода масою \\(6\\ \\text{г}.\\) Визначте початкове значення відносної вологості повітря в балоні, якщо густина насиченої водяної пари дорівнювала \\(20\\ \\text{г/м}^3.\\) Температуру повітря вважайте незмінною.",
+                    "is_comp": false,
+                    "ans": "40"
+                }
+            ]
+        },
+        {
+            "theme": "2. Молекулярна фізика і термодинаміка  => Вологість, поверхневий натяг, капілярні явища ",
+            "href": "https://zno.osvita.ua/physics/tag-vologhist_poverkhnevyj_natjagh_kapiljarni_javyshha/",
+            "questions": [
+                {
+                    "num": "5",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5413/fizika_2012_32.png",
+                    "is_comp": false,
+                    "ans": "45"
+                },
+                {
+                    "num": "11",
+                    "q": "У першій закритій кімнаті об’ємом 20 м3 відносна вологість повітря становила 60 %, а в другій закритій кімнаті об’ємом 30 м3 — 80 %. Визначте відносну вологість повітря, яка встановиться в приміщеннях після того, як відкриють двері між кімнатами. Температура повітря в кімнатах була однаковою і не змінилася. Відповідь запишіть у відсотках.",
+                    "is_comp": false,
+                    "ans": "72"
+                },
+                {
+                    "num": "13",
+                    "q": "У капілярі, зануреному одним кінцем у воду, вода піднімається на висоту 15 мм. Визначте (у міліметрах), якої максимальної довжини (висоти) стовпчик води може втримати вертикальний капіляр із двома відкритими в повітрі кінцями.",
+                    "is_comp": false,
+                    "ans": "30"
+                },
+                {
+                    "num": "18",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9060/matematika_27.png",
+                    "is_comp": false,
+                    "ans": "600"
+                },
+                {
+                    "num": "20",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9133/fizika_2008_osn_sessia_32.png",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "24",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11312/os-fizika-2016-29.png",
+                    "is_comp": false,
+                    "ans": "72"
+                },
+                {
+                    "num": "25",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12344/os-fizika-2017-28.png",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "29",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/145/14591/os-fizika-2007-31.png",
+                    "is_comp": false,
+                    "ans": "800"
+                },
+                {
+                    "num": "43",
+                    "q": "За температури повітря 25 °С його відносна вологість становить 80 %. Повітря охолоджують. За якої температури повітря почнеться утворення туману?",
+                    "is_comp": false,
+                    "ans": "21"
+                },
+                {
+                    "num": "45",
+                    "q": "Щоби підняти й відірвати від поверхні рідини тонку горизонтальну дротинку довжиною 8 см i масою 0,48 г, до неї необхідно прикласти силу 12 мН, напрямлену вертикально вгору. Визначте поверхневий натяг рідини. Уважайте, що прискорення вільного падіння дорівнює 10 м/с2.",
+                    "is_comp": true,
+                    "ans": "45"
+                }
+            ]
+        },
+        {
+            "theme": "2. Молекулярна фізика і термодинаміка  => Рівняння теплового балансу ",
+            "href": "https://zno.osvita.ua/physics/tag-rivnjannja_teplovogho_balansu/",
+            "questions": [
+                {
+                    "num": "1",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5375/fizika_2013_28.png",
+                    "is_comp": false,
+                    "ans": "50"
+                },
+                {
+                    "num": "5",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5484/fizika_2010_30.png",
+                    "is_comp": false,
+                    "ans": "0.04"
+                },
+                {
+                    "num": "7",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5522/fizika_2014_prob_31.png",
+                    "is_comp": false,
+                    "ans": "16"
+                },
+                {
+                    "num": "8",
+                    "q": "Визначте кількість теплоти, яка виділиться під час перетворення водяної пари масою 10 г, що мала температуру 100 ∘C, на воду з температурою 50 ∘C. Питома теплота пароутворення води дорівнює 2300 кДж/кг, питома теплоємність води становить 4,2 кДж/(кг⋅К). Відповідь запишіть у кілоджоулях.",
+                    "is_comp": false,
+                    "ans": "25.1"
+                },
+                {
+                    "num": "11",
+                    "q": "Ідеальна теплова машина має як нагрівник резервуар з водою, що кипить (373 К), а холодильником — ємність з льодом, що тане (273 К). Яка маса цього льоду розтане у результаті виконання машиною корисної роботи 110 кДж, якщо питома теплота плавлення льоду дорівнює 330 кДж/кг? Відповідь запишіть у грамах.",
+                    "is_comp": false,
+                    "ans": "910"
+                },
+                {
+                    "num": "14",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7959/fizika_30.jpg",
+                    "is_comp": false,
+                    "ans": "910"
+                },
+                {
+                    "num": "15",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9094/1_fizika_2015_prob_27.png",
+                    "is_comp": false,
+                    "ans": "8.5"
+                },
+                {
+                    "num": "16",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9097/1_fizika_2015_prob_30.png",
+                    "is_comp": false,
+                    "ans": "390"
+                },
+                {
+                    "num": "19",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9638/fizika_probnoe_2016_29.png",
+                    "is_comp": false,
+                    "ans": "400"
+                },
+                {
+                    "num": "21",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10892/ds-fizika-2016-28.png",
+                    "is_comp": false,
+                    "ans": "8.5"
+                },
+                {
+                    "num": "22",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10894/ds-fizika-2016-30.png",
+                    "is_comp": false,
+                    "ans": "6.25"
+                },
+                {
+                    "num": "23",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11311/os-fizika-2016-28.png",
+                    "is_comp": false,
+                    "ans": "64"
+                },
+                {
+                    "num": "25",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12731/ds-fizika-2017-29.png",
+                    "is_comp": false,
+                    "ans": "2.5"
+                },
+                {
+                    "num": "33",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20209/os-fizika-2020-31.png",
+                    "is_comp": false,
+                    "ans": "70"
+                },
+                {
+                    "num": "37",
+                    "q": "Крапля води масою 0,5 г щосекунди поглинає 2,1 · 1018 фотонів випромінювання з довжиною хвилі 600 нм. На скільки підвищиться температура краплі за 1 хвилину? Питома теплоємність води – 4200 Дж/(кг · К), швидкість світла – 3 · 108 м/с, стала Планка – 6,63 · 10-34 Дж · с. Утратами енергії краплею знехтуйте.",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "40",
+                    "q": "Температура мідної кульки знизилася від 20 °С до 18 °С. Уявіть, що 1 % утраченої кулькою внутрішньої енергії вдалося перетворити на механічну енергію кульки. На яку висоту можна було б тоді підняти цю кульку? Уважайте, що питома теплоємність міді - 380 Дж/(кг · К), прискорення вільного падіння - 10 м/с2.",
+                    "is_comp": false,
+                    "ans": "0.76"
+                }
+            ]
+        },
+        {
+            "theme": "3. Електродинаміка  => Основи електростатики ",
+            "href": "https://zno.osvita.ua/physics/tag-osnovi_elektrostatiki/",
+            "questions": [
+                {
+                    "num": "14",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5521/1_fizika_2014_prob_30.png",
+                    "is_comp": false,
+                    "ans": "25"
+                },
+                {
+                    "num": "17",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5559/34-pr-2013f.png",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "34",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/83/8398/fizika_30.jpg",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "48",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10895/ds-fizika-2016-31.png",
+                    "is_comp": false,
+                    "ans": "200"
+                },
+                {
+                    "num": "53",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11313/133252_os-fizika-2016-30.png",
+                    "is_comp": false,
+                    "ans": "1600"
+                },
+                {
+                    "num": "55",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12346/os-fizika-2017-30.png",
+                    "is_comp": false,
+                    "ans": "21.6"
+                },
+                {
+                    "num": "67",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/157/15703/ds-fizika-2018-36.png",
+                    "is_comp": false,
+                    "ans": "0.6"
+                },
+                {
+                    "num": "71",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/167/16725/pr-fizika-2019-36.png",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "72",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/167/16727/pr-fizika-2019-38.png",
+                    "is_comp": false,
+                    "ans": "0.36"
+                },
+                {
+                    "num": "80",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19710/pr-fizika-2020-33.png",
+                    "is_comp": false,
+                    "ans": "50"
+                },
+                {
+                    "num": "88",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/233/23304/34.png",
+                    "is_comp": false,
+                    "ans": "35"
+                },
+                {
+                    "num": "92",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/238/23897/34.png",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "93",
+                    "q": "Відрізок мідного дроту опором 1 Ом відшліфували, унаслідок чого його діаметр зменшився вдвічі. Яким став опір цього дроту після шліфування?",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "97",
+                    "q": "Коливальний контур радіоприймача складається з конденсатора та котушки індуктивності. Радіоприймач фіксовано налаштовано на приймання радіостанції, що випромінює радіохвилі довжиною \\(4\\ \\text{м.}\\) Радіоаматор вирішив переналаштувати приймач на прийом іншої радіостанції і приєднав паралельно до конденсатора в коливальному контурі конденсатор утричі більшої електроємності. На яку довжину хвилі тепер налаштовано приймач?",
+                    "is_comp": false,
+                    "ans": "8"
+                }
+            ]
+        },
+        {
+            "theme": "3. Електродинаміка  => Закони постійного струму ",
+            "href": "https://zno.osvita.ua/physics/tag-zakoni_postijnogo_strumu/",
+            "questions": [
+                {
+                    "num": "3",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5376/fizika_2013_29.png",
+                    "is_comp": false,
+                    "ans": "60"
+                },
+                {
+                    "num": "4",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5377/fizika_2013_30.png",
+                    "is_comp": false,
+                    "ans": "1.2"
+                },
+                {
+                    "num": "6",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5414/1_fizika_2012_33.png",
+                    "is_comp": false,
+                    "ans": "84"
+                },
+                {
+                    "num": "9",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5450/1_fizika_2011_33.png",
+                    "is_comp": false,
+                    "ans": "0.4"
+                },
+                {
+                    "num": "11",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5486/1_fizika_2010_32.png",
+                    "is_comp": false,
+                    "ans": "2.56"
+                },
+                {
+                    "num": "12",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5487/fizika_2010_33.png",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "14",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5520/fizika_2014_prob_29.png",
+                    "is_comp": false,
+                    "ans": "1.25"
+                },
+                {
+                    "num": "15",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5521/1_fizika_2014_prob_30.png",
+                    "is_comp": false,
+                    "ans": "25"
+                },
+                {
+                    "num": "16",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5522/fizika_2014_prob_31.png",
+                    "is_comp": false,
+                    "ans": "16"
+                },
+                {
+                    "num": "21",
+                    "q": "Якої мінімальної потужності нагрівник можна виготовити із двох спіралей опорами 200 і 284 Ом, розрахований на напругу 220 В? Відповідь запишіть у ватах.",
+                    "is_comp": false,
+                    "ans": "100"
+                },
+                {
+                    "num": "22",
+                    "q": "Електричний опір вольфрамового дроту за температури 0 ∘C дорівнює 10 Ом. Дріт підключили до джерела струму, напруга на якому є постійною і дорівнює 5 В, у результаті температура дроту підвищилася до 200 ∘C. Визначте потужність струму в дроті за цих умов. Температурний коефіцієнт опору вольфраму дорівнює 0,005 K−1. Відповідь запишіть у ватах.",
+                    "is_comp": false,
+                    "ans": "1.25"
+                },
+                {
+                    "num": "27",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/56/5630/1_33.jpg",
+                    "is_comp": false,
+                    "ans": "3"
+                },
+                {
+                    "num": "31",
+                    "q": "Два конденсатори з’єднані послідовно. Відомо, що максимально допустима напруга, яку можна прикласти до цієї ділянки кола дорівнює 9 В. Визначте (у вольтах), на яку напругу розраховано перший конденсатор, який має ємність 1 мкФ, якщо другий конденсатор має ємність 2 мкФ і розраховано на напругу 6 В.",
+                    "is_comp": false,
+                    "ans": "6"
+                },
+                {
+                    "num": "32",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/56/5667/34.jpg",
+                    "is_comp": false,
+                    "ans": "4.1"
+                },
+                {
+                    "num": "34",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7957/fizika_28.jpg",
+                    "is_comp": false,
+                    "ans": "0.5"
+                },
+                {
+                    "num": "35",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7958/fizika_29.jpg",
+                    "is_comp": false,
+                    "ans": "125"
+                },
+                {
+                    "num": "37",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/83/8396/fizika_28.jpg",
+                    "is_comp": false,
+                    "ans": "2.5"
+                },
+                {
+                    "num": "39",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9062/1_matematika_29.png",
+                    "is_comp": false,
+                    "ans": "101"
+                },
+                {
+                    "num": "41",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9095/fizika_2015_prob_28.png",
+                    "is_comp": false,
+                    "ans": "0.25"
+                },
+                {
+                    "num": "42",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9096/fizika_2015_prob_29.png",
+                    "is_comp": false,
+                    "ans": "1.8"
+                },
+                {
+                    "num": "43",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9097/1_fizika_2015_prob_30.png",
+                    "is_comp": false,
+                    "ans": "390"
+                },
+                {
+                    "num": "46",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9134/fizika_2008_osn_sessia_33.png",
+                    "is_comp": false,
+                    "ans": "9"
+                },
+                {
+                    "num": "51",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9167/fizika_2009_osn_sessia_31.png",
+                    "is_comp": false,
+                    "ans": "15"
+                },
+                {
+                    "num": "52",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9168/fizika_2009_osn_sessia_32.png",
+                    "is_comp": false,
+                    "ans": "0.1"
+                },
+                {
+                    "num": "55",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9639/fizika_probnoe_2016_30.png",
+                    "is_comp": false,
+                    "ans": "30"
+                },
+                {
+                    "num": "58",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10667/pr-fizika-2017-30.png",
+                    "is_comp": false,
+                    "ans": "80"
+                },
+                {
+                    "num": "60",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10894/ds-fizika-2016-30.png",
+                    "is_comp": false,
+                    "ans": "6.25"
+                },
+                {
+                    "num": "61",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10896/ds-fizika-2016-32.png",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "66",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12732/ds-fizika-2017-30.png",
+                    "is_comp": false,
+                    "ans": "15"
+                },
+                {
+                    "num": "70",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14303/pr-fizika-2018-36.png",
+                    "is_comp": false,
+                    "ans": "2.5"
+                },
+                {
+                    "num": "72",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/145/14592/os-fizika-2007-32.png",
+                    "is_comp": false,
+                    "ans": "4.1"
+                },
+                {
+                    "num": "77",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/151/15122/os-fizika-2018-36.png",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "91",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20211/os-fizika-2020-33.png",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "94",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/212/21200/ds-fizika-2020-32.png",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "100",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/263/26353/fizika-demo-2023-18.png",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "102",
+                    "q": "Опір нагрівального елемента підігріву автомобільного дзеркала, розрахованого на роботу в мережі з напругою \\(12\\ \\text{В},\\) становить \\(4\\ \\text{Ом}.\\) Визначте опір нагрівального елемента такої ж потужності подібного дзеркала, розрахованого для використання в автомобілях із напругою в мережі \\(24\\ \\text{В}.\\)",
+                    "is_comp": false,
+                    "ans": "16"
+                },
+                {
+                    "num": "103",
+                    "q": "Дріт довжиною \\(1,2\\ \\text{м}\\) та опором \\(10\\ \\text{Ом}\\) із незмінною площею поперечного перерізу приєднано кінцями до клем акумулятора. Вольтметр, приєднаний до довільної ділянки дроту завдовжки \\(24\\ \\text{см},\\) показує напругу \\(1\\ \\text{В}.\\) Визначте силу струму в дроті.",
+                    "is_comp": false,
+                    "ans": "0.5"
+                },
+                {
+                    "num": "104",
+                    "q": "Відрізок мідного дроту опором \\(1\\ \\text{Ом}\\) відшліфували, унаслідок чого його діаметр зменшився вдвічі. Яким став опір цього дроту після шліфування?",
+                    "is_comp": false,
+                    "ans": "4"
+                }
+            ]
+        },
+        {
+            "theme": "3. Електродинаміка  => Електричний струм у різних середовищах ",
+            "href": "https://zno.osvita.ua/physics/tag-elektrichnij_strum_u_riznih_seredovishah/",
+            "questions": [
+                {
+                    "num": "8",
+                    "q": "Електричний опір вольфрамового дроту за температури 0 ∘C дорівнює 10 Ом. Дріт підключили до джерела струму, напруга на якому є постійною і дорівнює 5 В, у результаті температура дроту підвищилася до 200 ∘C. Визначте потужність струму в дроті за цих умов. Температурний коефіцієнт опору вольфраму дорівнює 0,005 K−1. Відповідь запишіть у ватах.",
+                    "is_comp": false,
+                    "ans": "1.25"
+                },
+                {
+                    "num": "17",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9064/1_matematika_31.png",
+                    "is_comp": false,
+                    "ans": "96"
+                },
+                {
+                    "num": "27",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12347/140636_os-fizika-2017-31.png",
+                    "is_comp": false,
+                    "ans": "0.32"
+                },
+                {
+                    "num": "29",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12733/ds-fizika-2017-31.png",
+                    "is_comp": false,
+                    "ans": "90"
+                },
+                {
+                    "num": "48",
+                    "q": "Нікелювання металевого виробу, площа поверхні якого 120 см2, тривало 2 год за сили струму 0,3 А. Електрохімічний еквівалент нікелю 3 · 10-7 кг/Кл, густина 9 г/см3. Визначте товщину шару нікелю.",
+                    "is_comp": false,
+                    "ans": "6"
+                }
+            ]
+        },
+        {
+            "theme": "3. Електродинаміка  => Магнітне поле, електромагнітна індукція ",
+            "href": "https://zno.osvita.ua/physics/tag-magnitne_pole_elektromagnitna_indukciya/",
+            "questions": [
+                {
+                    "num": "3",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5378/fizika_2013_31.png",
+                    "is_comp": false,
+                    "ans": "0.01"
+                },
+                {
+                    "num": "5",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5415/fizika_2012_34.png",
+                    "is_comp": false,
+                    "ans": "0.75"
+                },
+                {
+                    "num": "9",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5451/fizika_2011_34.png",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "12",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5488/fizika_2010_34.png",
+                    "is_comp": false,
+                    "ans": "1.5"
+                },
+                {
+                    "num": "15",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5523/fizika_2014_prob_32.png",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "27",
+                    "q": "Магнітний потік усередині контуру з площею поперечного перерізу 10 см2 становить 0,2 мВб. Визначте перпендикулярну до площини контуру складову індукції магнітного поля всередині контуру (у теслах). Поле вважайте однорідним.",
+                    "is_comp": false,
+                    "ans": "0.2"
+                },
+                {
+                    "num": "28",
+                    "q": "В однорідне магнітне поле з індукцією 20 мТл перпендикулярно до ліній індукції влітає електрон з кінетичною енергією 32 кеВ. Визначте радіус траєкторій руху електрона (в метрах). Елементарний електричний заряд 1,6⋅10–19 Кл, масу електрона вважайте такою, що дорівнює 9⋅10–31 кг. 1 еВ=1,6⋅10–19 Дж.",
+                    "is_comp": false,
+                    "ans": "0.03"
+                },
+                {
+                    "num": "33",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9063/1_matematika_30.png",
+                    "is_comp": false,
+                    "ans": "1000"
+                },
+                {
+                    "num": "44",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9640/1_fizika_probnoe_2016_31.png",
+                    "is_comp": false,
+                    "ans": "0.6"
+                },
+                {
+                    "num": "49",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10668/pr-fizika-2017-31.png",
+                    "is_comp": false,
+                    "ans": "0.375"
+                },
+                {
+                    "num": "53",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11314/os-fizika-2016-31.png",
+                    "is_comp": false,
+                    "ans": "62.5"
+                },
+                {
+                    "num": "64",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/145/14593/os-fizika-2007-33.png",
+                    "is_comp": false,
+                    "ans": "0.5"
+                },
+                {
+                    "num": "68",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/151/15123/os-fizika-2018-37.png",
+                    "is_comp": false,
+                    "ans": "75"
+                },
+                {
+                    "num": "76",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/174/17423/os-fizika-2019-36.png",
+                    "is_comp": false,
+                    "ans": "0.15"
+                },
+                {
+                    "num": "79",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/181/18155/ds-fizika-2019-36.png",
+                    "is_comp": false,
+                    "ans": "95"
+                },
+                {
+                    "num": "80",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/181/18157/ds-fizika-2019-38.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "85",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20212/os-fizika-2020-34.png",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "87",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/212/21203/ds-fizika-2020-35.png",
+                    "is_comp": false,
+                    "ans": "0.5"
+                },
+                {
+                    "num": "89",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/233/23305/35.png",
+                    "is_comp": false,
+                    "ans": "2.25"
+                }
+            ]
+        },
+        {
+            "theme": "4. Коливання та хвилі. Оптика  => Механічні коливання та хвилі ",
+            "href": "https://zno.osvita.ua/physics/tag-mehanichni_kolivannya_ta_hvili/",
+            "questions": [
+                {
+                    "num": "8",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5452/1_fizika_2011_35.png",
+                    "is_comp": false,
+                    "ans": "0.32"
+                },
+                {
+                    "num": "17",
+                    "q": "Амплітуда коливань тіла на пружині дорівнює 0,5 м. Визначте шлях, який пройшло це тіло за п’ять періодів коливань. Відповідь запишіть у метрах.",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "20",
+                    "q": "Камертон має частоту коливань 510 Гц. Скільки довжин хвиль укладеться на відстані, яку звук, створений камертоном, пройде за 4 с?",
+                    "is_comp": false,
+                    "ans": "2040"
+                },
+                {
+                    "num": "30",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/84/8400/1_fizika_32.jpg",
+                    "is_comp": false,
+                    "ans": "1.26"
+                },
+                {
+                    "num": "33",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9066/matematika_33.png",
+                    "is_comp": false,
+                    "ans": "6.25"
+                },
+                {
+                    "num": "38",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9135/fizika_2008_osn_sessia_34.png",
+                    "is_comp": false,
+                    "ans": "7.2"
+                },
+                {
+                    "num": "44",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9641/fizika_probnoe_2016_32.png",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "53",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12348/140658_os-fizika-2017-32.png",
+                    "is_comp": false,
+                    "ans": "28"
+                },
+                {
+                    "num": "56",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12734/ds-fizika-2017-32.png",
+                    "is_comp": false,
+                    "ans": "0.2"
+                },
+                {
+                    "num": "68",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/174/17424/os-fizika-2019-37.png",
+                    "is_comp": false,
+                    "ans": "0.25"
+                },
+                {
+                    "num": "70",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/181/18156/ds-fizika-2019-37.png",
+                    "is_comp": false,
+                    "ans": "2.5"
+                },
+                {
+                    "num": "73",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19712/pr-fizika-2020-35.png",
+                    "is_comp": false,
+                    "ans": "0.8"
+                },
+                {
+                    "num": "74",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19714/pr-fizika-2020-37.png",
+                    "is_comp": false,
+                    "ans": "28"
+                },
+                {
+                    "num": "77",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20214/os-fizika-2020-36.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "81",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/212/21201/ds-fizika-2020-33.png",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "85",
+                    "q": "Із якою швидкістю гойдалка проходить нижню точку, якщо вага дитини масою 40 кг у цій точці становить 800 Н? Довжина підвісу гойдалки дорівнює 2,5 м. Уважайте, що прискорення вільного падіння становить 10 м/с2.",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "86",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/238/23899/36.png",
+                    "is_comp": false,
+                    "ans": "15"
+                },
+                {
+                    "num": "90",
+                    "q": "Визначте частоту коливань тіла, яке за 4 с зробило 16 повних коливань.",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "92",
+                    "q": "Координата тіла, яке здійснює гармонічні коливання вздовж осі \\(Ox,\\) змінюється за законом \\(x=0,04\\ \\cos(0,1\\style{font-style:normal;font-weight:bold;font-size:1.1em}{\\pi}t),\\) де значення всіх величин виражено в одиницях SI. Визначте модуль переміщення тіла за \\(30\\ \\text{с}\\) від початку коливань.",
+                    "is_comp": false,
+                    "ans": "8"
+                }
+            ]
+        },
+        {
+            "theme": "4. Коливання та хвилі. Оптика  => Електромагнітні коливання та хвилі ",
+            "href": "https://zno.osvita.ua/physics/tag-elektromagnitni_kolivannya_ta_hvili/",
+            "questions": [
+                {
+                    "num": "2",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5379/fizika_2013_32.png",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "11",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5489/fizika_2010_35.png",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "16",
+                    "q": "У коливальному контурі, що складається з конденсатора, котушки індуктивністю 0,01 Гн і ключа, після замикання ключа виникають електромагнітні коливання, причому максимальна сила струму в котушці становить 3 А. Визначте максимальне значення енергії електричного поля в конденсаторі у процесі коливань. Коливання вважайте незгасаючими. Відповідь запишіть у міліджоулях.",
+                    "is_comp": false,
+                    "ans": "45"
+                },
+                {
+                    "num": "21",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7961/fizika_32.jpg",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "26",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9065/matematika_32_1.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "29",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9098/fizika_2015_prob_31.png",
+                    "is_comp": false,
+                    "ans": "60"
+                },
+                {
+                    "num": "36",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9169/1_fizika_2009_osn_sessia_33.png",
+                    "is_comp": false,
+                    "ans": "1.5"
+                },
+                {
+                    "num": "42",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10669/pr-fizika-2017-32.png",
+                    "is_comp": false,
+                    "ans": "4"
+                },
+                {
+                    "num": "47",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11315/os-fizika-2016-32.png",
+                    "is_comp": false,
+                    "ans": "300"
+                },
+                {
+                    "num": "48",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12349/140727_os-fizika-2017-33.png",
+                    "is_comp": false,
+                    "ans": "0.15"
+                },
+                {
+                    "num": "52",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14304/pr-fizika-2018-37.png",
+                    "is_comp": false,
+                    "ans": "9"
+                },
+                {
+                    "num": "55",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/145/14594/os-fizika-2007-34.png",
+                    "is_comp": false,
+                    "ans": "220"
+                },
+                {
+                    "num": "71",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20213/os-fizika-2020-35.png",
+                    "is_comp": false,
+                    "ans": "60"
+                },
+                {
+                    "num": "73",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/212/21204/ds-fizika-2020-36.png",
+                    "is_comp": false,
+                    "ans": "558"
+                },
+                {
+                    "num": "74",
+                    "q": "Параметри першого коливального контуру такі: електроємність конденсатора \\(C_1=36\\ \\text{нФ}\\), індуктивність котушки \\(L_1=16\\ \\text{мГн}\\). Якою має бути індуктивність \\(L_2\\) котушки другого контуру, щоб він був настроєний на ту саму частоту, що й перший? Електроємність конденсатора другого контуру \\(C_2=24\\ \\text{нФ}\\).",
+                    "is_comp": false,
+                    "ans": "24"
+                },
+                {
+                    "num": "75",
+                    "q": "Потужний радіотелескоп послав із Землі радіоімпульс у бік Венери й отримав зворотний сигнал через 800 с. Якою була відстань від Землі до Венери, якщо вважати, що відстань між планетами під час поширення імпульсу не змінилася? Уважайте, що швидкість поширення радіоімпульсу становить 3·108 м/с.",
+                    "is_comp": false,
+                    "ans": "120"
+                },
+                {
+                    "num": "80",
+                    "q": "Під час вільних незатухаючих коливань максимальне значення енергії електричного поля конденсатора дорівнює 60 мДж. Визначте енергію електричного поля в той момент, коли вона у 2 рази перевищує енергію магнітного поля котушки.",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "81",
+                    "q": "Коливальний контур радіоприймача складається з конденсатора та котушки індуктивності. Радіоприймач фіксовано налаштовано на приймання радіостанції, що випромінює радіохвилі довжиною \\(4\\ \\text{м.}\\) Радіоаматор вирішив переналаштувати приймач на прийом іншої радіостанції і приєднав паралельно до конденсатора в коливальному контурі конденсатор утричі більшої електроємності. На яку довжину хвилі тепер налаштовано приймач?",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "84",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/278/27886/fizika-nmt-2024-demo-19.png",
+                    "is_comp": false,
+                    "ans": "3"
+                }
+            ]
+        },
+        {
+            "theme": "4. Коливання та хвилі. Оптика  => Оптика ",
+            "href": "https://zno.osvita.ua/physics/tag-optika/",
+            "questions": [
+                {
+                    "num": "2",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5380/fizika_2013_33.png",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "3",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5381/fizika_2013_34.png",
+                    "is_comp": false,
+                    "ans": "1.5"
+                },
+                {
+                    "num": "5",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5416/1_fizika_2012_35.png",
+                    "is_comp": false,
+                    "ans": "70"
+                },
+                {
+                    "num": "8",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5453/1_fizika_2011_36.png",
+                    "is_comp": false,
+                    "ans": "7"
+                },
+                {
+                    "num": "10",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5490/fizika_2010_36.png",
+                    "is_comp": false,
+                    "ans": "1.2"
+                },
+                {
+                    "num": "11",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5491/fizika_2010_37.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "15",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5524/1_fizika_2014_prob_33.png",
+                    "is_comp": false,
+                    "ans": "90"
+                },
+                {
+                    "num": "17",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5556/31-pr-2013f.png",
+                    "is_comp": false,
+                    "ans": "2.5"
+                },
+                {
+                    "num": "23",
+                    "q": "Перпендикулярно до дифракційної ґратки, яка має 1000 штрихів на 1 мм, падає фіолетовий промінь з довжиною хвилі 0,4 мкм. Визначте максимальний порядок інтерференційної смуги (порядок спектра).",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "25",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/56/5669/1_36.jpg",
+                    "is_comp": false,
+                    "ans": "6.25"
+                },
+                {
+                    "num": "28",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7960/fizika_31.jpg",
+                    "is_comp": false,
+                    "ans": "1.25"
+                },
+                {
+                    "num": "31",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/83/8399/fizika_31.jpg",
+                    "is_comp": false,
+                    "ans": "15"
+                },
+                {
+                    "num": "35",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9099/1_fizika_2015_prob_32.png",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "36",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9100/1_fizika_2015_prob_33.png",
+                    "is_comp": false,
+                    "ans": "30"
+                },
+                {
+                    "num": "40",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9170/1_fizika_2009_osn_sessia_34.png",
+                    "is_comp": false,
+                    "ans": "564"
+                },
+                {
+                    "num": "43",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9642/fizika_probnoe_2016_33.png",
+                    "is_comp": false,
+                    "ans": "40"
+                },
+                {
+                    "num": "46",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10670/pr-fizika-2017-33.png",
+                    "is_comp": false,
+                    "ans": "6.25"
+                },
+                {
+                    "num": "50",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10897/ds-fizika-2016-33.png",
+                    "is_comp": false,
+                    "ans": "30"
+                },
+                {
+                    "num": "53",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11316/os-fizika-2016-33.png",
+                    "is_comp": false,
+                    "ans": "16"
+                },
+                {
+                    "num": "57",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12735/ds-fizika-2017-33.png",
+                    "is_comp": false,
+                    "ans": "10"
+                },
+                {
+                    "num": "63",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/151/15124/os-fizika-2018-38.png",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "66",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/157/15704/ds-fizika-2018-37.png",
+                    "is_comp": false,
+                    "ans": "55"
+                },
+                {
+                    "num": "69",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/167/16726/pr-fizika-2019-37.png",
+                    "is_comp": false,
+                    "ans": "1.5"
+                },
+                {
+                    "num": "76",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19713/pr-fizika-2020-36.png",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "79",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20215/os-fizika-2020-37.png",
+                    "is_comp": false,
+                    "ans": "25"
+                },
+                {
+                    "num": "82",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/212/21205/ds-fizika-2020-37.png",
+                    "is_comp": false,
+                    "ans": "1"
+                },
+                {
+                    "num": "88",
+                    "q": "За допомогою лінзи з фокусною відстанню 20 см на вертикальному екрані отримали зображення будинку. Будинок розташований на головній оптичній осі лінзи. Висота зображення дорівнює 12 мм, справжня висота будинку – 6 м. Визначте відстань між лінзою і будинком.",
+                    "is_comp": false,
+                    "ans": "100"
+                },
+                {
+                    "num": "89",
+                    "q": "Предмет розташовано на відстані 1 м від збиральної лінзи з оптичною силою 5 дптр. Визначте відстань між лінзою та зображенням предмета.",
+                    "is_comp": false,
+                    "ans": "0.25"
+                },
+                {
+                    "num": "93",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/273/27380/multi-os-2-2023-19.png",
+                    "is_comp": false,
+                    "ans": "20"
+                }
+            ]
+        },
+        {
+            "theme": "5. Квантова фізика. Елементи теорії відносності  => Елементи теорії відносності ",
+            "href": "https://zno.osvita.ua/physics/tag-elementi_teoriyi_vidnosnosti/",
+            "questions": [
+                {
+                    "num": "10",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/84/8402/fizika_34.jpg",
+                    "is_comp": false,
+                    "ans": "136"
+                },
+                {
+                    "num": "11",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/90/9067/1_matematika_34.png",
+                    "is_comp": false,
+                    "ans": "1.1"
+                },
+                {
+                    "num": "17",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11317/os-fizika-2016-34.png",
+                    "is_comp": false,
+                    "ans": "1.1"
+                },
+                {
+                    "num": "18",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/123/12350/os-fizika-2017-34.png",
+                    "is_comp": false,
+                    "ans": "1.25"
+                },
+                {
+                    "num": "23",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/157/15705/ds-fizika-2018-38.png",
+                    "is_comp": false,
+                    "ans": "8"
+                },
+                {
+                    "num": "26",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/174/17425/os-fizika-2019-38.png",
+                    "is_comp": false,
+                    "ans": "880"
+                }
+            ]
+        },
+        {
+            "theme": "5. Квантова фізика. Елементи теорії відносності  => Світлові кванти ",
+            "href": "https://zno.osvita.ua/physics/tag-svitlovi_kvanti/",
+            "questions": [
+                {
+                    "num": "4",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/53/5376/fizika_2013_29.png",
+                    "is_comp": false,
+                    "ans": "60"
+                },
+                {
+                    "num": "6",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/54/5417/fizika_2012_36.png",
+                    "is_comp": false,
+                    "ans": "2.2"
+                },
+                {
+                    "num": "10",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5525/fizika_2014_prob_34.png",
+                    "is_comp": false,
+                    "ans": "1.5"
+                },
+                {
+                    "num": "13",
+                    "q": "Визначте, до якого потенціалу може зарядитися ізольована кулька з літію внаслідок опромінювання світлом із довжиною хвилі 450 нм. Стала Планка дорівнює 4,14⋅10–15 еВ⋅с, швидкість світла становить 3⋅108 м/с, робота виходу електронів з літію дорівнює 2,4 еВ. Відповідь запишіть у вольтах.",
+                    "is_comp": false,
+                    "ans": "0.36"
+                },
+                {
+                    "num": "16",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/79/7962/fizika_33.jpg",
+                    "is_comp": false,
+                    "ans": "0.5"
+                },
+                {
+                    "num": "17",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/84/8401/1_fizika_33.jpg",
+                    "is_comp": false,
+                    "ans": "125"
+                },
+                {
+                    "num": "20",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9171/fizika_2009_osn_sessia_35.png",
+                    "is_comp": false,
+                    "ans": "600"
+                },
+                {
+                    "num": "21",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/96/9643/fizika_probnoe_2016_34.png",
+                    "is_comp": false,
+                    "ans": "3"
+                },
+                {
+                    "num": "25",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/113/11317/os-fizika-2016-34.png",
+                    "is_comp": false,
+                    "ans": "1.1"
+                },
+                {
+                    "num": "29",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/143/14305/pr-fizika-2018-38.png",
+                    "is_comp": false,
+                    "ans": "660"
+                },
+                {
+                    "num": "37",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/167/16727/pr-fizika-2019-38.png",
+                    "is_comp": false,
+                    "ans": "0.36"
+                },
+                {
+                    "num": "44",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19715/pr-fizika-2020-38.png",
+                    "is_comp": false,
+                    "ans": "2.3"
+                },
+                {
+                    "num": "47",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/212/21206/ds-fizika-2020-38.png",
+                    "is_comp": false,
+                    "ans": "275"
+                },
+                {
+                    "num": "51",
+                    "q": "Крапля води масою 0,5 г щосекунди поглинає 2,1 · 1018 фотонів випромінювання з довжиною хвилі 600 нм. На скільки підвищиться температура краплі за 1 хвилину? Питома теплоємність води – 4200 Дж/(кг · К), швидкість світла – 3 · 108 м/с, стала Планка – 6,63 · 10-34 Дж · с. Утратами енергії краплею знехтуйте.",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "53",
+                    "q": "Лазер щосекунди випускає 5 · 1015 фотонів. Довжина хвилі випромінювання дорівнює 450 нм. Визначте потужність випромінювання лазера. Стала Планка дорівнює 6,6 · 10–34 Дж · с, швидкість світла у вакуумі становить 3 · 108 м/с.",
+                    "is_comp": false,
+                    "ans": "2.2"
+                }
+            ]
+        },
+        {
+            "theme": "5. Квантова фізика. Елементи теорії відносності  => Атом та атомне ядро ",
+            "href": "https://zno.osvita.ua/physics/tag-atom_ta_atomne_yadro/",
+            "questions": [
+                {
+                    "num": "11",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/55/5557/32.jpg",
+                    "is_comp": false,
+                    "ans": "15"
+                },
+                {
+                    "num": "13",
+                    "q": "Джерело радіоактивного випромінювання містить 800 мг ізотопу Барію 56133Ba, період піврозпаду якого дорівнює 10,5 року. Визначте проміжок часу, через який маса ізотопу Барію, що не розпався, складатиме 200 мг. Відповідь запишіть у роках.",
+                    "is_comp": false,
+                    "ans": "21"
+                },
+                {
+                    "num": "21",
+                    "q": "Укажіть період піврозпаду радіоактивного елемента (у добах), якщо його активність за 15 діб зменшилася у 8 разів.",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "26",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9101/fizika_2015_prob_34.png",
+                    "is_comp": false,
+                    "ans": "2"
+                },
+                {
+                    "num": "30",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/91/9136/fizika_2008_osn_sessia_35.png",
+                    "is_comp": false,
+                    "ans": "5"
+                },
+                {
+                    "num": "37",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/106/10671/pr-fizika-2017-34.png",
+                    "is_comp": false,
+                    "ans": "13"
+                },
+                {
+                    "num": "40",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/108/10898/ds-fizika-2016-34.png",
+                    "is_comp": false,
+                    "ans": "1.175"
+                },
+                {
+                    "num": "46",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/127/12736/ds-fizika-2017-34.png",
+                    "is_comp": false,
+                    "ans": "1"
+                },
+                {
+                    "num": "62",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/197/19715/pr-fizika-2020-38.png",
+                    "is_comp": false,
+                    "ans": "2.3"
+                },
+                {
+                    "num": "65",
+                    "q": "https://zno.osvita.ua/doc/images/znotest/202/20216/os-fizika-2020-38.png",
+                    "is_comp": false,
+                    "ans": "3"
+                },
+                {
+                    "num": "69",
+                    "q": "Період піврозпаду радіоактивного ізотопу становить 1 год, під час кожного розпаду виділяється енергія 5 МеВ. Визначте енергію, яка виділиться протягом 3 год, якщо початкова кількість атомів цього ізотопу становила 8·1010. Елементарний електричний заряд дорівнює 1,6·10–19 Кл.",
+                    "is_comp": false,
+                    "ans": "56"
+                },
+                {
+                    "num": "77",
+                    "q": "Джерело радіоактивного випромінювання містить ізотоп Натрію \\(^{22}_{11}\\mathrm{Na}\\) масою \\(3,2\\ \\text{г,}\\) період піврозпаду якого \\(2,6\\ \\text{року.}\\) Через який проміжок часу маса ізотопу Натрію, що не розпався, дорівнюватиме \\(100\\ \\text{мг?}\\)",
+                    "is_comp": false,
+                    "ans": "13"
+                },
+                {
+                    "num": "79",
+                    "q": "Період піврозпаду ядер деякої речовини становить \\(10\\) годин. Частка ядер, що розпалися внаслідок радіоактивного розпаду цієї речовини, дорівнює \\(75\\ \\text{%}\\) від їхньої кількості на початок спостереження. Визначте тривалість спостереження за радіоактивним розпадом цієї речовини.",
+                    "is_comp": false,
+                    "ans": "20"
+                },
+                {
+                    "num": "81",
+                    "q": "Радіоактивний Цезій-137, що накопичується на атомних електростанціях під час ядерної реакції, є одним із головних джерел радіоактивного забруднення довкілля. Період піврозпаду Цезію-137 становить \\(30\\ \\text{років}.\\) Через скільки років кількість атомів цього радіонукліда, що випадково потрапили у водойму, зменшиться в \\(32\\ \\text{рази}?\\)",
+                    "is_comp": false,
+                    "ans": "150"
+                },
+                {
+                    "num": "83",
+                    "q": "Період піврозпаду радіоактивного ізотопу становить \\(1\\ \\text{год},\\) під час кожного розпаду виділяється енергія \\(5\\ \\text{МеВ}.\\) Визначте енергію, яка виділиться протягом \\(3\\ \\text{год},\\) якщо початкова кількість атомів цього ізотопу становила \\(8\\cdot 10^{10}.\\) Елементарний електричний заряд дорівнює \\(1,6\\cdot 10^{–19}\\ \\text{Кл}.\\)",
+                    "is_comp": false,
+                    "ans": "56"
+                }
+            ]
+        }
+    ]
+}
